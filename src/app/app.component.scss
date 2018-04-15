@@ -47,7 +47,7 @@
         // -moz-animation: slideshow1 12s linear 0s infinite;
         // -ms-animation: slideshow1 12s linear 0s infinite;
         // -o-animation: slideshow1 12s linear 0s infinite;
-        animation: slideshow1 12s linear 0s infinite;
+        animation: slideshow1 24s linear 0s infinite;
       }
 
       .slide1:nth-child(2) {
@@ -56,7 +56,7 @@
         // -moz-animation: slideshow1 12s linear 4s infinite;
         // -ms-animation: slideshow1 12s linear 4s infinite;
         // -o-animation: slideshow1 12s linear 4s infinite;
-        animation: slideshow1 12s linear 4s infinite;
+        animation: slideshow1 24s linear 8s infinite;
       }
 
       .slide1:nth-child(3) {
@@ -65,7 +65,7 @@
         // -moz-animation: slideshow1 12s linear 8s infinite;
         // -ms-animation: slideshow1 12s linear 8s infinite;
         // -o-animation: slideshow1 12s linear 8s infinite;
-        animation: slideshow1 12s linear 8s infinite;
+        animation: slideshow1 24s linear 16s infinite;
       }
 
     }
@@ -102,6 +102,9 @@
           size: 20px;
           weight:700;
         }
+      }
+      .text {
+        text-align: left;
       }
 
     }
@@ -200,7 +203,7 @@
           // -moz-animation: slideshow1 12s linear 0s infinite;
           // -ms-animation: slideshow1 12s linear 0s infinite;
           // -o-animation: slideshow1 12s linear 0s infinite;
-          animation: slideshow1 12s linear 0s infinite;
+          animation: slideshow1 24s linear 0s infinite;
         }
 
         .slide1:nth-child(2) {
@@ -209,7 +212,7 @@
           // -moz-animation: slideshow1 12s linear 4s infinite;
           // -ms-animation: slideshow1 12s linear 4s infinite;
           // -o-animation: slideshow1 12s linear 4s infinite;
-          animation: slideshow1 12s linear 4s infinite;
+          animation: slideshow1 24s linear 8s infinite;
         }
 
         .slide1:nth-child(3) {
@@ -218,7 +221,7 @@
           // -moz-animation: slideshow1 12s linear 8s infinite;
           // -ms-animation: slideshow1 12s linear 8s infinite;
           // -o-animation: slideshow1 12s linear 8s infinite;
-          animation: slideshow1 12s linear 8s infinite;
+          animation: slideshow1 24s linear 16s infinite;
         }
 
       }
